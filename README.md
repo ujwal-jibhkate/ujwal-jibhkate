@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/ujwal-jibhkate/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[YOUR_PORTFOLIO_URL_HERE]" target="_blank">
+  <a href="https://www.ujwal.technology/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:ujwaljibhkate06@gmail.com">
