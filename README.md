@@ -46,4 +46,13 @@ Two research tracks: pathway-reversal scoring of ~12K compounds against a DIPG d
 
 ---
 
-Open to AI/ML engineering roles.
+### Open to AI/ML engineering roles.
+
+<!-- tensortonic:start -->
+#### Ujwal Jibhkate's TensorTonic Solutions
+
+Verified machine learning implementations completed on [TensorTonic](https://www.tensortonic.com).
+
+<p align="center">
+  <img src="https://www.tensortonic.com/api/badge/ujwaljibhkate.svg" alt="TensorTonic Verified Solutions" width="100%" />
+</p>
